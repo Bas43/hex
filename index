@@ -1,0 +1,61 @@
+<!-- BEGIN (write your solution here) -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>>ЮЗОО</title>
+<meta charset=utf-8> 
+  <link rel="stylesheet" type="text/css" href="style.css" >
+
+  </head>
+ 
+  <body>
+      <div id="header">
+      <h1>Александр Вахренев</h1>
+      <h3>Веб-разработчик</h3>
+      <p> <a href="mailto:basta0@yandex.ru">basta0@yandex.ru</a>
+      <a href=swuo.ucoz.ru>swuo.ucoz.ru</a>
+      </p>
+      </div>
+      <div id="main">
+          <h2>Опыт работы</h2>
+          <p>Пенсионный фонд</p>
+          <ul>
+              <li>Ведение базы данных пенсионеров</li>
+              <li>Обслуживание ПК</li>
+          </ul>
+          <p>Министерство образования</p>
+          <ul>
+              <li>Ведение сайта</li>
+              <li>Обслуживание ПК</li>
+              <li>Сбор и обработка аналитической информации</li>
+          </ul>
+          <h2>Образование</h2>
+          <p>Суводский лесхоз-техникум</p>
+          <p>Лесное и лесопарковое хозяйство, 1998-2002</p>
+          <p>МарГТУ</p>
+          <p>Инженер лесного и лесопаркового хозяйства</p>
+
+          <h2>Другие навыки и увлечения</h2>
+          <ul>
+              <li>Программирование</li>
+              <li>Рыбалка</li>
+              <li>Путешествия</li>
+          </ul>
+
+
+
+      </div>
+      <div id="footer">
+          <p>Александр Вахренев</p>
+          <p>ул. Энергетиков, д. 3, г. Советск, Россия</p>
+          <p>т. +79229086024, <a href="mailto:basta0@yandex.ru">basta0@yandex.ru</a></p>
+      </div>
+
+
+
+
+
+  </body>
+</html>
+<!-- END -->
+
